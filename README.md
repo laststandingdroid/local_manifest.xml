@@ -1,8 +1,5 @@
 local_manifest.xml
 ==================
-
-Repo Sync CM10 Files for SGS II
-
     <?xml version="1.0" encoding="UTF-8"?>
     <manifest>
       <project name="teamhacksung/buildscripts" path="buildscripts" remote="github" revision="jellybean">
